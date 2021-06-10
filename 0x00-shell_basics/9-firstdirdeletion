@@ -1,2 +1,2 @@
-$!/bin/bash
-rm -r ./holberton /tmp
+#!/bin/bash
+rm -r ./holberton /tmp /n
