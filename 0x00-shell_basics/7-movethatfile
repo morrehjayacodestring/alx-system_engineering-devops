@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(move  tmp:/betty tmp:/holberton)"
+echo "$(mv betty /root/tmp/holberton)"
