@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd
+alx is my favorite school
