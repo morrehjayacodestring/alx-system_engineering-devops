@@ -13,7 +13,7 @@ command  => 'sudo apt-get -y install nginx',
 exec {'echo_html':
 provider => shell,
 path     => '/usr/bin:/usr/sbin:/bin',
-command  => 'sudo echo "Holberton School" | sudo tee /var/www/html/index.nginx-debian.html',
+command  => 'sudo echo "Hellow World" | sudo tee /var/www/html/index.nginx-debian.html',
 }
 
 exec {'sed_config':
